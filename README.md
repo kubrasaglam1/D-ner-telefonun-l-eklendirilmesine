@@ -1,1 +1,0 @@
-# D-ner-telefonun-l-eklendirilmesine
